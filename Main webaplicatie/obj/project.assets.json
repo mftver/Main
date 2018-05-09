@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\markv\\OneDrive\\Documenten\\Visual Studio 2017\\Projecten\\Main webaplicatie\\Main webaplicatie\\Main webaplicatie.csproj",
+      "projectUniqueName": "C:\\Users\\markv\\OneDrive\\Documenten\\Visual Studio 2017\\Projecten\\Main webaplicatie\\Main\\Main webaplicatie\\Main webaplicatie.csproj",
       "projectName": "Main webaplicatie",
-      "projectPath": "C:\\Users\\markv\\OneDrive\\Documenten\\Visual Studio 2017\\Projecten\\Main webaplicatie\\Main webaplicatie\\Main webaplicatie.csproj",
+      "projectPath": "C:\\Users\\markv\\OneDrive\\Documenten\\Visual Studio 2017\\Projecten\\Main webaplicatie\\Main\\Main webaplicatie\\Main webaplicatie.csproj",
       "packagesPath": "C:\\Users\\markv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\markv\\OneDrive\\Documenten\\Visual Studio 2017\\Projecten\\Main webaplicatie\\Main webaplicatie\\obj\\",
+      "outputPath": "C:\\Users\\markv\\OneDrive\\Documenten\\Visual Studio 2017\\Projecten\\Main webaplicatie\\Main\\Main webaplicatie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

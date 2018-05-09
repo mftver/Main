@@ -11,19 +11,24 @@ namespace Main_webaplicatie.Controllers
     public class HomeController : Controller
     {
         [HttpPost]
-        public IActionResult Index(string username, string password)
+        /*public IActionResult Index(string username, string password)
         {
 
-            //data opvangen vanuit post
+            data opvangen vanuit post
 
-            //models gebruiken voor data uit database halen
+            models gebruiken voor data uit database halen
 
-            //Person person = LoginModel.login(username.password);
+            Person person = LoginModel.login(username.password);
 
-            //data doorstuuren naar een pagina
+            data doorstuuren naar een pagina
 
-            //ViewBag.logedinuser = person;
+            ViewBag.logedinuser = person;
             return View(ViewBag);
+            return "DikkeMoeder";
+        }*/
+        public IActionResult Index()
+        {
+            return View();
         }
 
         public IActionResult About()
